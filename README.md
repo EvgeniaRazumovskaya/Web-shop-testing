@@ -8,5 +8,5 @@
 для тестирования корзины покупок и модуля оплаты. </li>
 <li> <a href="https://drive.google.com/file/d/1AOsXW3lnbVgdGyVEbwbXihzNw2jMseFW/view?usp=sharing">Test cases QASE</a> 
 для тестирования корзины покупок и модуля оплаты.  </li>
-<li>  <a href="https://drive.google.com/drive/folders/1W-_lAFxMg0DHo3bjQA0DO6LeljkA75sD?usp=sharing">Пример отчетов об ошибках через YouTrack </a> </li>
+<li>  <a href="https://drive.google.com/file/d/1iwPHi4LAVWZtBmwsN1bGujFon0hvfxR4/view?usp=sharing">Пример отчетов об ошибках через YouTrack </a> </li>
 </ul> 
